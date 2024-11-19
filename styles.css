@@ -1,0 +1,10 @@
+.notice {
+    height: 60px;
+    background-color: red;
+    display: grid;
+    place-items: center;
+}
+
+marquee {
+    color: white;
+}
